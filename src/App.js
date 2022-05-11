@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <a href='https://nid.naver.com/oauth2.0/authorize?response_type=code&client_id=dzNXC_0vF67gUapNQghR&redirect_uri=http://localhost:8080/naver/callback&state=code'><img height='50' src='http://static.nid.naver.com/oauth/small_g_in.PNG'/></a>
       </header>
     </div>
   );
