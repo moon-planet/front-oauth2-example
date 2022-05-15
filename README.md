@@ -1,3 +1,5 @@
+# [중단] 본 프로젝트에 적용이 되었기 때문에 Deprecated로 변경하였습니다. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
